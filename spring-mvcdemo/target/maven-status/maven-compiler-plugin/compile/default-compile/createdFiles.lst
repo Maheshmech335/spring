@@ -1,0 +1,5 @@
+com\training\springmvc\model\Registration.class
+com\training\springmvc\model\Course.class
+com\training\springmvc\service\HelloService.class
+com\training\springmvc\controller\HelloServlet.class
+com\training\springmvc\dao\HelloDAO.class
